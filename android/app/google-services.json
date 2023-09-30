@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "98214354708",
+    "project_id": "virtuallab-b1c7f",
+    "storage_bucket": "virtuallab-b1c7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98214354708:android:18c9c7bc0ed77bf9f4ac01",
+        "android_client_info": {
+          "package_name": "com.example.virtual_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98214354708-7qopao00esgp2rmonftfr8s6bqkaldcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgOAFWt8lqVX0qwz9DMxHuFE7TlD5Xwbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98214354708-7qopao00esgp2rmonftfr8s6bqkaldcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98214354708-ohcn4jup7m19ci0fc301rng36fh38gct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.virtualLab.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
